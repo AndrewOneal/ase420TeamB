@@ -2,3 +2,4 @@
 __pycache__
 highscore.txt
 *.pyc
+.pytest_cache
