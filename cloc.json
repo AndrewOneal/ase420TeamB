@@ -176,5 +176,127 @@
         "nFiles": 2
       }
     }
+  },
+  "12-3-23":{
+    "main": {
+      "header" : {
+      "cloc_url"           : "github.com/AlDanial/cloc",
+      "cloc_version"       : "1.98",
+      "elapsed_seconds"    : 0.254542112350464,
+      "n_files"            : 14,
+      "n_lines"            : 536,
+      "files_per_second"   : 55.0007221623282,
+      "lines_per_second"   : 2105.74193421485},
+    "main.py" :{
+      "blank": 1,
+      "comment": 0,
+      "code": 17,
+      "language": "Python"},
+    ".\\src\\tetris.py" :{
+      "blank": 36,
+      "comment": 0,
+      "code": 170,
+      "language": "Python"},
+    ".\\src\\move.py" :{
+      "blank": 6,
+      "comment": 0,
+      "code": 44,
+      "language": "Python"},
+    ".\\src\\tetris_renderer.py" :{
+      "blank": 6,
+      "comment": 0,
+      "code": 43,
+      "language": "Python"},
+    ".\\src\\themes.py" :{
+      "blank": 0,
+      "comment": 0,
+      "code": 42,
+      "language": "Python"},
+    ".\\src\\tetromino.py" :{
+      "blank": 6,
+      "comment": 0,
+      "code": 35,
+      "language": "Python"},
+    ".\\src\\board.py" :{
+      "blank": 4,
+      "comment": 0,
+      "code": 21,
+      "language": "Python"},
+    ".\\src\\theme_selector.py" :{
+      "blank": 4,
+      "comment": 0,
+      "code": 21,
+      "language": "Python"},
+    ".\\src\\next_shape.py" :{
+      "blank": 3,
+      "comment": 0,
+      "code": 20,
+      "language": "Python"},
+    ".\\src\\sound.py" :{
+      "blank": 6,
+      "comment": 0,
+      "code": 18,
+      "language": "Python"},
+    ".\\src\\high_score.py" :{
+      "blank": 2,
+      "comment": 0,
+      "code": 17,
+      "language": "Python"},
+    ".\\src\\figures.py" :{
+      "blank": 0,
+      "comment": 0,
+      "code": 9,
+      "language": "Python"},
+    ".\\src\\event_manager.py" :{
+      "blank": 2,
+      "comment": 0,
+      "code": 8,
+      "language": "Python"},
+    ".\\src\\locked_color.py" :{
+      "blank": 0,
+      "comment": 0,
+      "code": 7,
+      "language": "Python"},
+    ".\\src\\colors.py" :{
+      "blank": 1,
+      "comment": 0,
+      "code": 5,
+      "language": "Python"},
+    ".\\test\\test_theme.py" :{
+        "blank": 7,
+        "comment": 0,
+        "code": 36,
+        "language": "Python"},
+    ".\\test\\test_sound.py" :{
+        "blank": 9,
+        "comment": 0,
+        "code": 33,
+        "language": "Python"},
+    ".\\test\\test_tutorial.py" :{
+        "blank": 4,
+        "comment": 0,
+        "code": 26,
+        "language": "Python"},
+    ".\\test\\test_nextShape.py" :{
+        "blank": 3,
+        "comment": 0,
+        "code": 24,
+        "language": "Python"},
+    ".\\test\\test_highScore.py" :{
+        "blank": 5,
+        "comment": 0,
+        "code": 21,
+        "language": "Python"},
+    ".\\test\\test_lockedColor.py" :{
+        "blank": 3,
+        "comment": 0,
+        "code": 17,
+        "language": "Python"},
+    "SUM": {
+      "blank": 108,
+      "comment": 0,
+      "code": 634,
+      "nFiles": 21} 
+    }
   }
 }
