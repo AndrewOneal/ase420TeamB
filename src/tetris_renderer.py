@@ -38,7 +38,6 @@ class TetrisRenderer:
                                       self.square_size - 2, self.square_size - 2])
 
     def draw_next(self, tetromino):
-        figure = Figures[tetromino][0]
         for i in range(4):
             for j in range(4):
                 p = i * 4 + j
