@@ -18,4 +18,5 @@ Code Smell: Dead Code (Andrew)
 
     Link to GitHub with Code Smell: https://github.com/sdy329/ase420TeamB/blob/2a9b2559210e950f1ce4daf4d6f01e208118a015/src/tetris_renderer.py
     refactoring: Remove variable
-    Link to Github with refactoring: 
+    Link to Github with refactoring: https://github.com/AndrewOneal/ase420TeamB/blob/5e1cf8907998c78585b87c0e903f337913e1d644/src/tetris_renderer.py
+
