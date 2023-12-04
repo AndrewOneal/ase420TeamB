@@ -11,3 +11,12 @@ Code Smell: Magic number (Bryce)
     Link to Github with Code Smell: https://github.com/brycebien/ase420TeamB/blob/fc7f18fad6a769b26e6d9ab3640645e9785826b7/tetris.py
     refactoring: declare a constant for the magic number
     Link to Github with refactoring: https://github.com/brycebien/ase420TeamB/blob/4a3a23749d358641b21206fa3e33e49b98c9ccdf/tetris.py
+
+Code Smell: Dead Code (Andrew)
+    Detected: 12/3/2023
+    Lines: 41 tetris_renderer.py
+
+    Link to GitHub with Code Smell: https://github.com/sdy329/ase420TeamB/blob/2a9b2559210e950f1ce4daf4d6f01e208118a015/src/tetris_renderer.py
+    refactoring: Remove variable
+    Link to Github with refactoring: https://github.com/AndrewOneal/ase420TeamB/blob/5e1cf8907998c78585b87c0e903f337913e1d644/src/tetris_renderer.py
+
